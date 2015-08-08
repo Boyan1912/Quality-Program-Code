@@ -1,0 +1,2 @@
+E:\QPC\Variables Data Expressions and Constants\ControlFlowConditionalStatementsAndLoops\01_ClassChefInCsharp\bin\Debug\01_ClassChefInCsharp.exe.config
+E:\QPC\ControlFlowConditionalStatementsAndLoops\01_ClassChefInCsharp\bin\Debug\01_ClassChefInCsharp.exe.config

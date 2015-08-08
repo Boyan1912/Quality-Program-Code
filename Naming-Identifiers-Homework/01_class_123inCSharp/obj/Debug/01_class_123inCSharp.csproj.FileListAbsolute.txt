@@ -1,0 +1,4 @@
+c:\users\boyan\documents\visual studio 2013\Projects\Naming-Identifiers-Homework\01_class_123inCSharp\bin\Debug\01_class_123inCSharp.exe.config
+c:\users\boyan\documents\visual studio 2013\Projects\Naming-Identifiers-Homework\01_class_123inCSharp\obj\Debug\01_class_123inCSharp.csprojResolveAssemblyReference.cache
+E:\QPC\NamingIdentifiersHomework\C Sharp\Naming-Identifiers-Homework\01_class_123inCSharp\bin\Debug\01_class_123inCSharp.exe.config
+E:\QPC\Naming-Identifiers-Homework\01_class_123inCSharp\bin\Debug\01_class_123inCSharp.exe.config

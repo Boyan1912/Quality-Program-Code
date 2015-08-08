@@ -1,0 +1,12 @@
+c:\users\boyan\documents\visual studio 2013\Projects\Naming-Identifiers-Homework\02_Make_ЧуекInCSharp\bin\Debug\02_Make_ЧуекInCSharp.exe.config
+c:\users\boyan\documents\visual studio 2013\Projects\Naming-Identifiers-Homework\02_Make_ЧуекInCSharp\obj\Debug\02_Make_ЧуекInCSharp.csprojResolveAssemblyReference.cache
+c:\users\boyan\documents\visual studio 2013\Projects\Naming-Identifiers-Homework\02_Make_ЧуекInCSharp\bin\Debug\02_Make_ЧуекInCSharp.exe
+c:\users\boyan\documents\visual studio 2013\Projects\Naming-Identifiers-Homework\02_Make_ЧуекInCSharp\bin\Debug\02_Make_ЧуекInCSharp.pdb
+c:\users\boyan\documents\visual studio 2013\Projects\Naming-Identifiers-Homework\02_Make_ЧуекInCSharp\obj\Debug\02_Make_ЧуекInCSharp.exe
+c:\users\boyan\documents\visual studio 2013\Projects\Naming-Identifiers-Homework\02_Make_ЧуекInCSharp\obj\Debug\02_Make_ЧуекInCSharp.pdb
+E:\QPC\NamingIdentifiersHomework\C Sharp\Naming-Identifiers-Homework\02_Make_ЧуекInCSharp\bin\Debug\02_Make_ЧуекInCSharp.exe.config
+E:\QPC\NamingIdentifiersHomework\C Sharp\Naming-Identifiers-Homework\02_Make_ЧуекInCSharp\obj\Debug\02_Make_ЧуекInCSharp.exe
+E:\QPC\NamingIdentifiersHomework\C Sharp\Naming-Identifiers-Homework\02_Make_ЧуекInCSharp\obj\Debug\02_Make_ЧуекInCSharp.pdb
+E:\QPC\Naming-Identifiers-Homework\02_Make_ЧуекInCSharp\bin\Debug\02_Make_ЧуекInCSharp.exe.config
+E:\QPC\Naming-Identifiers-Homework\02_Make_ЧуекInCSharp\obj\Debug\02_Make_ЧуекInCSharp.exe
+E:\QPC\Naming-Identifiers-Homework\02_Make_ЧуекInCSharp\obj\Debug\02_Make_ЧуекInCSharp.pdb

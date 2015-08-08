@@ -1,0 +1,6 @@
+E:\QPC\CodeTuningAndOptimizationHomework\CompareSimpleMaths\bin\Debug\CompareSimpleMaths.exe.config
+E:\QPC\CodeTuningAndOptimizationHomework\CompareSimpleMaths\obj\Debug\CompareSimpleMaths.csprojResolveAssemblyReference.cache
+E:\QPC\CodeTuningAndOptimizationHomework\CompareSimpleMaths\bin\Debug\CompareSimpleMaths.exe
+E:\QPC\CodeTuningAndOptimizationHomework\CompareSimpleMaths\bin\Debug\CompareSimpleMaths.pdb
+E:\QPC\CodeTuningAndOptimizationHomework\CompareSimpleMaths\obj\Debug\CompareSimpleMaths.exe
+E:\QPC\CodeTuningAndOptimizationHomework\CompareSimpleMaths\obj\Debug\CompareSimpleMaths.pdb

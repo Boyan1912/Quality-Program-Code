@@ -1,0 +1,6 @@
+E:\QPC\Defensive Programming and Exceptions\DefensiveProgrammingAndExceptions\01_Assertions\bin\Debug\01_Assertions.exe.config
+E:\QPC\Defensive Programming and Exceptions\DefensiveProgrammingAndExceptions\01_Assertions\bin\Debug\01_Assertions.exe
+E:\QPC\Defensive Programming and Exceptions\DefensiveProgrammingAndExceptions\01_Assertions\bin\Debug\01_Assertions.pdb
+E:\QPC\Defensive Programming and Exceptions\DefensiveProgrammingAndExceptions\01_Assertions\obj\Debug\01_Assertions.csprojResolveAssemblyReference.cache
+E:\QPC\Defensive Programming and Exceptions\DefensiveProgrammingAndExceptions\01_Assertions\obj\Debug\01_Assertions.exe
+E:\QPC\Defensive Programming and Exceptions\DefensiveProgrammingAndExceptions\01_Assertions\obj\Debug\01_Assertions.pdb

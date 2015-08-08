@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_class_123inCSharp", "01_class_123inCSharp\01_class_123inCSharp.csproj", "{944A8549-57B6-42BC-84F4-A0FF4675E6DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Make_ЧуекInCSharp", "02_Make_ЧуекInCSharp\02_Make_ЧуекInCSharp.csproj", "{09D786D6-47A3-4AEF-B23E-E231EFC93D2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Re-factorAndImproveTheCode", "04_Re-factorAndImproveTheCode\04_Re-factorAndImproveTheCode.csproj", "{C1F3FB25-3790-4BAE-96F8-34B2B6FEAB6C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{63D9FA2D-A1AF-4F19-91D6-9B28456304F6}"
+	ProjectSection(SolutionItems) = preProject
+		03_ClickON_TheButtonInJavaScript.js = 03_ClickON_TheButtonInJavaScript.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{944A8549-57B6-42BC-84F4-A0FF4675E6DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944A8549-57B6-42BC-84F4-A0FF4675E6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944A8549-57B6-42BC-84F4-A0FF4675E6DC}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{944A8549-57B6-42BC-84F4-A0FF4675E6DC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{944A8549-57B6-42BC-84F4-A0FF4675E6DC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{944A8549-57B6-42BC-84F4-A0FF4675E6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944A8549-57B6-42BC-84F4-A0FF4675E6DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{944A8549-57B6-42BC-84F4-A0FF4675E6DC}.Release|ARM.ActiveCfg = Release|Any CPU
+		{944A8549-57B6-42BC-84F4-A0FF4675E6DC}.Release|x64.ActiveCfg = Release|Any CPU
+		{944A8549-57B6-42BC-84F4-A0FF4675E6DC}.Release|x86.ActiveCfg = Release|Any CPU
+		{09D786D6-47A3-4AEF-B23E-E231EFC93D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D786D6-47A3-4AEF-B23E-E231EFC93D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D786D6-47A3-4AEF-B23E-E231EFC93D2C}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{09D786D6-47A3-4AEF-B23E-E231EFC93D2C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{09D786D6-47A3-4AEF-B23E-E231EFC93D2C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{09D786D6-47A3-4AEF-B23E-E231EFC93D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D786D6-47A3-4AEF-B23E-E231EFC93D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09D786D6-47A3-4AEF-B23E-E231EFC93D2C}.Release|ARM.ActiveCfg = Release|Any CPU
+		{09D786D6-47A3-4AEF-B23E-E231EFC93D2C}.Release|x64.ActiveCfg = Release|Any CPU
+		{09D786D6-47A3-4AEF-B23E-E231EFC93D2C}.Release|x86.ActiveCfg = Release|Any CPU
+		{C1F3FB25-3790-4BAE-96F8-34B2B6FEAB6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F3FB25-3790-4BAE-96F8-34B2B6FEAB6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F3FB25-3790-4BAE-96F8-34B2B6FEAB6C}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{C1F3FB25-3790-4BAE-96F8-34B2B6FEAB6C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C1F3FB25-3790-4BAE-96F8-34B2B6FEAB6C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C1F3FB25-3790-4BAE-96F8-34B2B6FEAB6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F3FB25-3790-4BAE-96F8-34B2B6FEAB6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F3FB25-3790-4BAE-96F8-34B2B6FEAB6C}.Release|ARM.ActiveCfg = Release|Any CPU
+		{C1F3FB25-3790-4BAE-96F8-34B2B6FEAB6C}.Release|x64.ActiveCfg = Release|Any CPU
+		{C1F3FB25-3790-4BAE-96F8-34B2B6FEAB6C}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
