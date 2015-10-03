@@ -1,1 +1,0 @@
-E:\QPC\Variables Data Expressions and Constants\VariablesDataExpressionsAndConstants\02_MethodPrintStatisticsInCsharp\bin\Debug\02_MethodPrintStatisticsInCsharp.exe.config

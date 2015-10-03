@@ -1,9 +1,0 @@
-E:\QPC\High-quality Classes Homework\High-QualityClassesHomework\04_InheritanceAndPolymorphism\bin\Debug\04_InheritanceAndPolymorphism.exe.config
-E:\QPC\High-quality Classes Homework\High-QualityClassesHomework\04_InheritanceAndPolymorphism\bin\Debug\04_InheritanceAndPolymorphism.exe
-E:\QPC\High-quality Classes Homework\High-QualityClassesHomework\04_InheritanceAndPolymorphism\bin\Debug\04_InheritanceAndPolymorphism.pdb
-E:\QPC\High-quality Classes Homework\High-QualityClassesHomework\04_InheritanceAndPolymorphism\obj\Debug\04_InheritanceAndPolymorphism.csprojResolveAssemblyReference.cache
-E:\QPC\High-quality Classes Homework\High-QualityClassesHomework\04_InheritanceAndPolymorphism\obj\Debug\04_InheritanceAndPolymorphism.exe
-E:\QPC\High-quality Classes Homework\High-QualityClassesHomework\04_InheritanceAndPolymorphism\obj\Debug\04_InheritanceAndPolymorphism.pdb
-E:\QPC\Quality-Program-Code\High-quality Classes Homework\High-QualityClassesHomework\04_InheritanceAndPolymorphism\bin\Debug\04_InheritanceAndPolymorphism.exe.config
-E:\QPC\Quality-Program-Code\High-quality Classes Homework\High-QualityClassesHomework\04_InheritanceAndPolymorphism\obj\Debug\04_InheritanceAndPolymorphism.exe
-E:\QPC\Quality-Program-Code\High-quality Classes Homework\High-QualityClassesHomework\04_InheritanceAndPolymorphism\obj\Debug\04_InheritanceAndPolymorphism.pdb

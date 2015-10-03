@@ -1,1 +1,0 @@
-E:\QPC\Variables Data Expressions and Constants\VariablesDataExpressionsAndConstants\01_ClassSizeInCsharp\bin\Debug\01_ClassSizeInCsharp.exe.config

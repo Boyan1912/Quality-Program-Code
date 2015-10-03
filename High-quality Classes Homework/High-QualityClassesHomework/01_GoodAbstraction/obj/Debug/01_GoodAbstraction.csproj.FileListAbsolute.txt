@@ -1,6 +1,0 @@
-E:\QPC\High-quality Classes Homework\High-QualityClassesHomework\01_GoodAbstraction\bin\Debug\01_GoodAbstraction.exe.config
-E:\QPC\High-quality Classes Homework\High-QualityClassesHomework\01_GoodAbstraction\obj\Debug\01_GoodAbstraction.csprojResolveAssemblyReference.cache
-E:\QPC\High-quality Classes Homework\High-QualityClassesHomework\01_GoodAbstraction\bin\Debug\01_GoodAbstraction.exe
-E:\QPC\High-quality Classes Homework\High-QualityClassesHomework\01_GoodAbstraction\bin\Debug\01_GoodAbstraction.pdb
-E:\QPC\High-quality Classes Homework\High-QualityClassesHomework\01_GoodAbstraction\obj\Debug\01_GoodAbstraction.exe
-E:\QPC\High-quality Classes Homework\High-QualityClassesHomework\01_GoodAbstraction\obj\Debug\01_GoodAbstraction.pdb

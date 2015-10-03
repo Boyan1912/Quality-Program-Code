@@ -1,9 +1,0 @@
-E:\QPC\NamingIdentifiersHomework\C Sharp\Naming-Identifiers-Homework\04_Re-factorAndImproveTheCode\bin\Debug\04_Re-factorAndImproveTheCode.exe.config
-E:\QPC\NamingIdentifiersHomework\C Sharp\Naming-Identifiers-Homework\04_Re-factorAndImproveTheCode\bin\Debug\04_Re-factorAndImproveTheCode.exe
-E:\QPC\NamingIdentifiersHomework\C Sharp\Naming-Identifiers-Homework\04_Re-factorAndImproveTheCode\bin\Debug\04_Re-factorAndImproveTheCode.pdb
-E:\QPC\NamingIdentifiersHomework\C Sharp\Naming-Identifiers-Homework\04_Re-factorAndImproveTheCode\obj\Debug\04_Re-factorAndImproveTheCode.csprojResolveAssemblyReference.cache
-E:\QPC\NamingIdentifiersHomework\C Sharp\Naming-Identifiers-Homework\04_Re-factorAndImproveTheCode\obj\Debug\04_Re-factorAndImproveTheCode.exe
-E:\QPC\NamingIdentifiersHomework\C Sharp\Naming-Identifiers-Homework\04_Re-factorAndImproveTheCode\obj\Debug\04_Re-factorAndImproveTheCode.pdb
-E:\QPC\Naming-Identifiers-Homework\04_Re-factorAndImproveTheCode\bin\Debug\04_Re-factorAndImproveTheCode.exe.config
-E:\QPC\Naming-Identifiers-Homework\04_Re-factorAndImproveTheCode\obj\Debug\04_Re-factorAndImproveTheCode.exe
-E:\QPC\Naming-Identifiers-Homework\04_Re-factorAndImproveTheCode\obj\Debug\04_Re-factorAndImproveTheCode.pdb

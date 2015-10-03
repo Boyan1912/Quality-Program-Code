@@ -1,9 +1,0 @@
-E:\QPC\Variables Data Expressions and Constants\HighQualityMethodsHomework\01_QualityMethods\bin\Debug\01_QualityMethods.exe.config
-E:\QPC\Variables Data Expressions and Constants\HighQualityMethodsHomework\01_QualityMethods\obj\Debug\01_QualityMethods.csprojResolveAssemblyReference.cache
-E:\QPC\Variables Data Expressions and Constants\HighQualityMethodsHomework\01_QualityMethods\bin\Debug\01_QualityMethods.exe
-E:\QPC\Variables Data Expressions and Constants\HighQualityMethodsHomework\01_QualityMethods\bin\Debug\01_QualityMethods.pdb
-E:\QPC\Variables Data Expressions and Constants\HighQualityMethodsHomework\01_QualityMethods\obj\Debug\01_QualityMethods.exe
-E:\QPC\Variables Data Expressions and Constants\HighQualityMethodsHomework\01_QualityMethods\obj\Debug\01_QualityMethods.pdb
-E:\QPC\HighQualityMethodsHomework\01_QualityMethods\bin\Debug\01_QualityMethods.exe.config
-E:\QPC\HighQualityMethodsHomework\01_QualityMethods\obj\Debug\01_QualityMethods.exe
-E:\QPC\HighQualityMethodsHomework\01_QualityMethods\obj\Debug\01_QualityMethods.pdb

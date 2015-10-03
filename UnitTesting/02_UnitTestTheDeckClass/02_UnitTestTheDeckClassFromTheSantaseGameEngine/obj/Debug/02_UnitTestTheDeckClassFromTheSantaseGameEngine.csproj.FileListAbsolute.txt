@@ -1,1 +1,0 @@
-E:\QPC\Quality-Program-Code\UnitTesting\02_UnitTestTheDeckClass\02_UnitTestTheDeckClassFromTheSantaseGameEngine\bin\Debug\02_UnitTestTheDeckClassFromTheSantaseGameEngine.exe.config

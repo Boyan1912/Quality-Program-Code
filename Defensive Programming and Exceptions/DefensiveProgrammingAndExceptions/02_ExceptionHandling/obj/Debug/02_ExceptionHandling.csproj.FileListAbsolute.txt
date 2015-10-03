@@ -1,6 +1,0 @@
-E:\QPC\Defensive Programming and Exceptions\DefensiveProgrammingAndExceptions\02_ExceptionHandling\bin\Debug\02_ExceptionHandling.exe.config
-E:\QPC\Defensive Programming and Exceptions\DefensiveProgrammingAndExceptions\02_ExceptionHandling\bin\Debug\02_ExceptionHandling.exe
-E:\QPC\Defensive Programming and Exceptions\DefensiveProgrammingAndExceptions\02_ExceptionHandling\bin\Debug\02_ExceptionHandling.pdb
-E:\QPC\Defensive Programming and Exceptions\DefensiveProgrammingAndExceptions\02_ExceptionHandling\obj\Debug\02_ExceptionHandling.csprojResolveAssemblyReference.cache
-E:\QPC\Defensive Programming and Exceptions\DefensiveProgrammingAndExceptions\02_ExceptionHandling\obj\Debug\02_ExceptionHandling.exe
-E:\QPC\Defensive Programming and Exceptions\DefensiveProgrammingAndExceptions\02_ExceptionHandling\obj\Debug\02_ExceptionHandling.pdb

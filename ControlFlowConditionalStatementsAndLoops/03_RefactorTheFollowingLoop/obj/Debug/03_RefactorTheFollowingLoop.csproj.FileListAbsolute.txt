@@ -1,1 +1,0 @@
-E:\QPC\Variables Data Expressions and Constants\ControlFlowConditionalStatementsAndLoops\03_RefactorTheFollowingLoop\bin\Debug\03_RefactorTheFollowingLoop.exe.config
